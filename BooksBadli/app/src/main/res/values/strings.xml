@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BooksBadli</string>
+    <string name="emailDigits">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@_.-</string>
+</resources>
